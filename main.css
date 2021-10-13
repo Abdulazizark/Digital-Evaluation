@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #FFFF;
+    font-family: 'Raleway', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #FFFF;
+}
+
+#info1 {
+    margin-top: 7%;
+}
+
+.banner {
+    height: 140vh;
+    width: 100%;
+    background: url('./bootstrap-4.6.0-dist/img/overlay.png'), url('./bootstrap-4.6.0-dist/img/bg2.jpg');
+    background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.banner .navber {
+    margin: 4%;
+}
+
+.banner .nav-brand img {
+    margin: 0;
+}
+
+.banner .nav {
+    margin-right: 10;
+}
+
+.banner .nav .nav-item a {
+    color: #aaa;
+    font-size: 1.1rem;
+}
+
+#login {
+    text-decoration: none;
+    color: black;
+}
